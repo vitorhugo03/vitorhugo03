@@ -1,6 +1,6 @@
 ## Olá! Eu sou o vitor Hugo 👋
 
-- 🔭 Hoje estou em Busca de estágio no ramo de Front-End
+- 🔭 Hoje estou em Busca de estágio no segmento de Front-End
 - 🌱 Estudando: Javascript, ReactJS, Typescript
 - 🧑‍💻 Graduando em Sistemas de Informação
 <div style="display: inline_block"><br>
