@@ -1,8 +1,21 @@
 ## Olá! Eu sou o vitor Hugo 👋
+Analista de Sistemas (ADS) | Desenvolvedor Front-End 📍 Belo Horizonte, MG
 
-- 🔭 Hoje estou em Busca de estágio no segmento de Front-End
-- 🌱 Estudando: Javascript, ReactJS, Typescript
-- 🧑‍💻 Graduando em Análise e desenvolvimento de sistemas 
+Atualmente busco minha primeira oportunidade profissional no mercado de tecnologia, com foco em Desenvolvimento Júnior, QA ou Suporte Técnico. Sou graduado em ADS pelo Centro Universitário Una e possuo sólida base técnica em desenvolvimento web, lógica de programação e qualidade de software.
+
+- 🔭 Busca de oportunidades como Desenvolvedor Júnior ou Suporte Técnico
+- 🌱 Linguagens/Frameworks: Javascript, ReactJS, Typescript
+- 🧑‍💻 Graduado em Análise e desenvolvimento de sistemas
+- 📖 Aprofundando estudos em:
+Qualidade e Gestão de Software: Aplicando conceitos de testes e melhoria de processos.
+
+TypeScript & Node.js: Evoluindo na construção de aplicações escaláveis e tipadas.
+
+Clean Code: Focado em escrever códigos legíveis e de fácil manutenção.
+🎓 Formação e Cursos:
+Graduação em ADS: Centro Universitário Una (Conclusão 2025).
+
+Bootcamp: Rocketseat (Ignite/Discover).
 <div style="display: inline_block"><br>
   <img align="center" alt="vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vitor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
